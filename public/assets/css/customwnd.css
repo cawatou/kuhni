@@ -1,0 +1,12 @@
+.customwnd { background: #FFFFFF; border: 1px solid #848484; }
+.customwnd iframe { border: 0px none; overflow: auto; }
+
+.customwnd .customwnd_content { background: #FFFFFF; }
+.customwnd .customwnd_title { position: relative; padding-right: 30px; font: 14px/24px Tahoma; text-transform: uppercase; color: #024186; }
+.customwnd .customwnd_body { position: relative; }
+.customwnd .customwnd_footer { display: none; padding-top: 7px; position: relative; font: 12px Arial; text-align: center; color: #A8ACAD; }
+.customwnd .customwnd_footer a { color: #A8ACAD; text-decoration: underline; }
+.customwnd .customwnd_footer a:hover { text-decoration: none; }
+.customwnd .customwnd_close { position: absolute; right: 20px; top: 20px; display: block; width: 19px; height: 19px; font-size: 0px; background: url('images/close.gif'); cursor: pointer; }
+
+.customwnd-preloader { background: #FFFFFF url('images/preloader.gif') no-repeat 4px 4px; padding: 4px 4px 4px 24px; color: #000000; font-family: Arial; font-size: 12px; font-weight: normal; }

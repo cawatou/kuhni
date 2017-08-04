@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g id="clock">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#BD8669" d="M24,0C10.7,0,0,10.7,0,24c0,13.3,10.7,24,24,24
+			c13.3,0,24-10.7,24-24C48,10.7,37.3,0,24,0z M24,46C11.9,46,2,36.1,2,24C2,11.9,11.9,2,24,2c12.1,0,22,9.9,22,22
+			C46,36.1,36.1,46,24,46z M25,9h-2v16h9v-2h-7V9z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+
+#modal {
+    box-shadow: 0px 0px 20px 2px #050505;
+    width: 50%;
+    height: 350px;
+    background-color: #afd9ee;
+    border-radius: 10px;
+    margin: auto;
+    padding: 5px;
+}
+
+#comment-form{
+    padding: 25px;
+}
+.comment_id {
+    visibility: hidden;
+}
+
+.item {
+    margin: 40px
+}
+
+#cancel_reply {
+    visibility: hidden;
+}
